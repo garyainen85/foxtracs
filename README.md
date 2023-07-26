@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add PaddlePaddle Docs Integrations Page (#8858)
